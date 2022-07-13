@@ -1,6 +1,6 @@
-# Toggle checkbox in Vim
+# Toggle checkboxes in Vim
 
-This plugin introduces an elegant way to toggle checkbox from the Normal mode on the current line.
+This plugin introduces an elegant way to toggle checkboxes from the Normal mode on the current line.
 
 Values:
 
